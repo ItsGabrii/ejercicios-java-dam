@@ -1,16 +1,20 @@
-# Ejercicios de Java - 1º DAM
+# Java Exercises - 1st Year DAM
 
-Este repositorio contiene ejercicios realizados durante el primer año del ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM), utilizando el lenguaje de programación Java.
+This repository contains exercises developed during the first year of the Multiplatform Application Development (DAM) program, using the Java programming language.
 
-## Temas incluidos
+## Topics Covered
 
-- Bucles y estructuras de control
-- Condicionales
-- Arrays y colecciones
-- Programación orientada a objetos
-- Métodos y clases
+- Loops and control structures
+- Conditionals
+- Arrays and collections
+- Object-oriented programming (OOP)
+- Methods and classes
 
-## 📚 Nota
+## 📚 Note
 
-Los ejercicios fueron realizados con fines educativos y reflejan mi proceso de aprendizaje en Java.
+These exercises were created for educational purposes and reflect my learning process in Java.
 
+## 🔗 Author
+
+**Gabriel Castaño**  
+[GitHub Profile](https://github.com/ItsGabrii)
